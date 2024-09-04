@@ -51,7 +51,7 @@
      
 </body>
 
-</html>## Hi there 👋
+</html>
 
 <!--
 **ChithkalaKS/ChithkalaKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
